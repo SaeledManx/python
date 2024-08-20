@@ -1,6 +1,6 @@
 #输入
 a = input()
-b = input('你算什么：')
+b = input('你要算什么：')
 c = input()
 a = int(a)
 c = int(c)
